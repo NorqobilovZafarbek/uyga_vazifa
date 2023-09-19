@@ -1,9 +1,8 @@
+
+
 import 'package:flutter/cupertino.dart';
-import 'package:provider/provider.dart';
+import 'package:uygavazifa/common/widget.dart';
 
-import 'common/widget.dart';
-
-void main() =>
+void main() {
   runApp(const App());
-
-
+}

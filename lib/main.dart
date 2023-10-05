@@ -7,5 +7,5 @@ import 'package:uygavazifa/common/widget.dart';
 
 void main() async {
   $storage = await SharedPreferences.getInstance();
-  runApp(App());
+  runApp(const App());
 }
